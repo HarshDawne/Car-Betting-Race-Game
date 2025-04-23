@@ -89,7 +89,7 @@ python racing_game.py
 
 ## 👨‍💻 Author
 
-**Developed by:** *[Your Name]*  
+**Developed by:** *[Harsh Dawne]*  
 A beginner-friendly Python game to learn GUI and animation concepts!
 
 ---
