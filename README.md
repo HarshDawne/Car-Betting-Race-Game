@@ -60,6 +60,8 @@ No external dependencies required
 
 ## 👨‍💻 Author
 Developed by: Harsh Dawne
+
+
 A beginner-friendly Python game to learn GUI and animation concepts!
 
 
