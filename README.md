@@ -44,6 +44,24 @@ car_race_betting_game/ │ ├── car1.gif # Red car ├── car2.gif # Blu
 > Make sure all GIFs are in the same folder as `racing_game.py`
 
 ---
+## 📦 Requirements:
+Python 3.x (comes with turtle and tkinter by default)
+
+No external dependencies required
+
+## 💡 Future Enhancements (Ideas):
+1.Sound effects when cars move
+
+2.Countdown before race starts
+
+3.Multiplayer betting support
+
+4.Leaderboard for score tracking
+
+## 👨‍💻 Author
+Developed by: Harsh Dawne
+A beginner-friendly Python game to learn GUI and animation concepts!
+
 
 ## ▶️ How to Run
 
@@ -53,24 +71,10 @@ car_race_betting_game/ │ ├── car1.gif # Red car ├── car2.gif # Blu
 ```bash
 python racing_game.py
 
-When prompted, enter your bet from: red, blue, green, orange, or black.
+When prompted, enter your bet from: red, blue, green, orange, or black.```
 
-📦 Requirements:
-Python 3.x (comes with turtle and tkinter by default)
-
-No external dependencies required
-
-💡 Future Enhancements (Ideas):
-1.Sound effects when cars move
-
-2.Countdown before race starts
-
-3.Multiplayer betting support
-
-4.Leaderboard for score tracking
-
-👨‍💻 Author
-Developed by: Harsh Dawne
-A beginner-friendly Python game to learn GUI and animation concepts!
 
 Have fun betting and may your car win the race! 🏁
+
+
+
